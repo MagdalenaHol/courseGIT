@@ -436,7 +436,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1rem) center;
 		height: 2.75rem;
-		padding-right: 2.75rem;
+		padding-right: 10rem;
 		text-overflow: ellipsis;
 	}
 
